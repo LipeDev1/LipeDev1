@@ -10,4 +10,4 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 [linkedin]: https://linkedin.com/in/filipe-fernandes17082002/
 
 👨🏼‍💻 building my website  
-🧠 learning [javascipt][javascript], [Css][Css]
+🧠 learning [javascipt],[Html5], [Css],[Typescript]
