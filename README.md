@@ -14,7 +14,6 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 </div>
  <br>
 <div  align="center"> 
- 
   ![Snake animation](https://github.com/LipeDev1/LipeDev1/blob/output/github-contribution-grid-snake.svg)
  
 </div>
