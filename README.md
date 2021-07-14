@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m Filipe from Brazil, and i do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and i also enjoy wireframing, ui, ux and design in general. You can check out my social networks.
+I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and i also enjoy wireframing, ui, ux and design in general. You can check out my social networks.
 
 👨🏼‍💻 building my website  
 🧠 learning Html5,Javascript,Css,PHP,Python.
