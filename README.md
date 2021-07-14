@@ -8,7 +8,8 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 <div>
   <a href="https://github.com/LipeDev1">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&&layout=compact&hide=shell&theme=jolly"/>
+ 
+    <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&&layout=compact&hide=shell&theme=dark"/>
 
 
 
