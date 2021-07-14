@@ -3,7 +3,10 @@
 I´m Filipe from Brazil, and i do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and i also enjoy wireframing, ui, ux and design in general. You can check out my social networks.
 
 👨🏼‍💻 building my website  
-🧠 learning [nextjs][next], [typescript][typescript]  
+🧠 learning Html5,Javascript,Css,PHP,Python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeDev1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
