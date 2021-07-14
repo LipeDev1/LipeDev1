@@ -16,7 +16,6 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
