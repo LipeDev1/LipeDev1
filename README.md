@@ -12,7 +12,7 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 
 
 
-🏡 [website][website] **|** 
+
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
