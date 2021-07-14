@@ -5,7 +5,8 @@ I´m Filipe from Brazil, and i do content on design and development. I really en
 👨🏼‍💻 building my website  
 🧠 learning Html5,Javascript,Css,PHP,Python.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeDev1=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipeDev1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
