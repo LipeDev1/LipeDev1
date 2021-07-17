@@ -3,7 +3,7 @@
 I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general. You can check out my social networks.
 
 👨🏼‍💻 building my website  
-🧠 learning Html5,Javascript,Css,PHP,Python.
+🧠 learning Html,Javascript,Css,sass css,PHP,Python.
 
 <div>
   <a href="https://github.com/LipeDev1">
