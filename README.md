@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general. You can check out my social networks.
-
-👨🏼‍💻 building my website  
-🧠 learning Html,Javascript,Typescript,Css,Node.js,PHP,Angular,React.
+<h2> align"left" I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general. You can check out my social networks. 
+  </h2>
+  
+💻 Student <em>&</em> Front-end Developer <br/>
+🧠 Learning Html,Javascript,Typescript,Css,Node.js,PHP,Angular,React. <br/>
 
 ![Snake animation](https://github.com/LipeDev1/LipeDev1/blob/output/github-contribution-grid-snake.svg)
-<br> 
-</br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/LipeDev1">
-    <h2 align= "left">
-      <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true &hide_border=true"/>
-      
-  <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-      </h2>
 </div>
-    <br> </br>
+  
+  <br/><br/>
+  
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yta-LipeDev1=dark" width="400px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true &hide_border=true" width="400px height="180px" align="center"/>
+</p>
+  
  
   
 <div align"center" style="display: inline_block"><br>
@@ -36,13 +37,10 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
  	<a href="https://www.twitch.tv/lipetv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:lipefer456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-fernandes17082002" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <img align="center" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
- 
+  
 </div>
  
 
- 
 
 
 
