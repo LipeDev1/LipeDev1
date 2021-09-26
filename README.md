@@ -1,5 +1,6 @@
-<img src="Programmer-amico.svg" width="200px" align="right" alt="Programer"/>
-<h2 align="left"> I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general.
+
+<h2 align="left"> I´m Filipe from Brazil, and I do content on design and development. 
+  I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general.
                 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 💻 Student <em>&</em> Front-end Developer <br/>
@@ -25,11 +26,8 @@
 <div align="center">
       
   <a href = "mailto:lipefer456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
-    </a>
-  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linkedin.com/in/filipe-fernandes17082002" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.twitch.tv/lipetv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
