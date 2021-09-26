@@ -1,4 +1,4 @@
-## Oiii! Seja muito bem-vindo/a ao Meu Perfil/Repositório
+## Oii! Seja muito bem-vindo/a ao Meu Perfil
 <div align="left">
   <a href="https://github.com/LipeDev1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
