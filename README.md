@@ -13,10 +13,10 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
       </h2>
 </div>
-    <br> 
+    <br>  </br>
  
     <img align="center" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
- </br>
+ 
 <div align"center" style="display: inline_block"><br>
   <img align="center" alt="Lipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
