@@ -19,8 +19,8 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
   <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  ///<img align="right" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
-</div>///
+ <img align="down" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
+</div>
   
   ##
  
