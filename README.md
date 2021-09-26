@@ -7,7 +7,10 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
 
 <div align="center">
   <a href="https://github.com/LipeDev1">
-    <h2 align= "left">Statistics<img align="right" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
+    <h2 align= "left">Statistics
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true &hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+      <img align="right" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
 </div></h2>
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true &hide_border=true"/>
@@ -20,8 +23,7 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
   <img align="center" alt="Lipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
- <img align="right" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
-</div>
+
   
   ##
  
