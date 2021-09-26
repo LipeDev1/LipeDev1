@@ -1,21 +1,20 @@
 ### Hi there 👋
 
-<h2> align"left" I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general. You can check out my social networks. 
-  </h2>
+<h3> I´m Filipe from Brazil, and I do content on design and development. I really enjoy learning languages and frameworks like JavaScript, React Native, React, php, Python and I also enjoy wireframing, ui, ux and design in general. You can check out my social networks. 
+  </h3>
   
 💻 Student <em>&</em> Front-end Developer <br/>
 🧠 Learning Html,Javascript,Typescript,Css,Node.js,PHP,Angular,React. <br/>
 
-![Snake animation](https://github.com/LipeDev1/LipeDev1/blob/output/github-contribution-grid-snake.svg)
-
 <div align="left">
   <a href="https://github.com/LipeDev1">
 </div>
+  ![Snake animation](https://github.com/LipeDev1/LipeDev1/blob/output/github-contribution-grid-snake.svg)
   
   <br/><br/>
   
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yta-LipeDev1=dark" width="400px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=LipeDev1=dark" width="400px" height="180px" align="center"/>&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true &hide_border=true" width="400px height="180px" align="center"/>
 </p>
   
