@@ -5,6 +5,10 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
 👨🏼‍💻 building my website  
 🧠 learning Html,Javascript,Typescript,Css,Node.js,PHP,Angular,React.
 
+![Snake animation](https://github.com/LipeDev1/LipeDev1/blob/output/github-contribution-grid-snake.svg)
+<br> 
+</br>
+
 <div align="center">
   <a href="https://github.com/LipeDev1">
     <h2 align= "left">
