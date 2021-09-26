@@ -13,7 +13,8 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
       
       <img align="right" alt="Lipe-yoda" src="https://media1.tenor.com/images/d46c897e979f2cc6b9764bee26c665a6/tenor.gif?itemid=16181871">
-</div></h2>
+      </h2>
+</div>
     
 
 <div align"center" style="display: inline_block"><br>
