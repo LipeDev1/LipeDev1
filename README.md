@@ -5,7 +5,7 @@ I´m Filipe from Brazil, and I do content on design and development. I really en
 👨🏼‍💻 building my website  
 🧠 learning Html,Javascript,Typescript,Css,Node.js,PHP,Angular,React.
 
-<div>
+<div align="left">
   <a href="https://github.com/LipeDev1">
     <h2>Statistics</h2>
     
