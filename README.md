@@ -1,7 +1,7 @@
 ## Oii! Seja muito bem-vindo/a ao meu Perfil, fique a vontade 
 <div align="left">
   <a href="https://github.com/LipeDev1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LipeDev1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LipeDev1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align"center" style="display: inline_block"><br>
